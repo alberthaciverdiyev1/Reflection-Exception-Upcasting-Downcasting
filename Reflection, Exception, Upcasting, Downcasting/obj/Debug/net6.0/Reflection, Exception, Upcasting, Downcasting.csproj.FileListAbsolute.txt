@@ -1,0 +1,15 @@
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\bin\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.exe
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\bin\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.deps.json
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\bin\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.runtimeconfig.json
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\bin\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.dll
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\bin\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.pdb
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.csproj.AssemblyReference.cache
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.AssemblyInfoInputs.cache
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.AssemblyInfo.cs
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.dll
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\refint\Reflection, Exception, Upcasting, Downcasting.dll
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.pdb
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\Reflection, Exception, Upcasting, Downcasting.genruntimeconfig.cache
+C:\Users\Alber\Desktop\pass\Reflection, Exception, Upcasting, Downcasting\Reflection, Exception, Upcasting, Downcasting\obj\Debug\net6.0\ref\Reflection, Exception, Upcasting, Downcasting.dll
