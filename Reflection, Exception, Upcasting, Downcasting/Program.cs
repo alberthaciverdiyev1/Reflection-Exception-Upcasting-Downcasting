@@ -37,8 +37,8 @@ namespace Reflection__Exception__Upcasting__Downcasting
                 foreach (var field in type.GetProperties())
                 {
                     Console.WriteLine(field.Name + ": " + field.GetValue(fruit));
-                    fruit.Taste();
-                }
+                   
+                } fruit.Taste();
 
                 Console.WriteLine("_________________________");
                 Console.WriteLine(" ");
